@@ -11,4 +11,4 @@
 - Python
 - Git & GitHub
 ## ⚙️ Nasıl Çalıştırılır
-1. Bu repoyu bilgisayarınıza indirin:
+1. Bu repoyu bilgisayarınıza indirin
